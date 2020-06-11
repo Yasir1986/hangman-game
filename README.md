@@ -14,4 +14,4 @@ OR
 
 Live deploy link:
 
-http://frantic-can.surge.sh/
+http://strange-payment.surge.sh/
